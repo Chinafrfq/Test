@@ -7,5 +7,6 @@ public class Test {
         System.out.println("push Test");
         System.out.println("pull Test");
         System.out.println("pull Test2");
+        Github项目更新了
     }
 }
